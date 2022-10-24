@@ -7,5 +7,5 @@
 4. Unit 4 Typography
 5. Unit 5 ระบบสี
 6. [Unit 6 ระบบภาพและเสียง](unit06.md)
-7. Unit 7 Graphic Design Part 1
+7. [Unit 7 Graphic Design Part 1](unit07.md)
 8. Unit 8 Graphic Design Part 2
